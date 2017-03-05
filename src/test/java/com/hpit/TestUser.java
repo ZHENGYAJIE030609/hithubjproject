@@ -6,5 +6,7 @@ package com.hpit;
 public class TestUser {
     public void TestUser(){
         System.out.println("第一句话。。。");
+        System.out.println("第er句话。。。");
+
     }
 }
